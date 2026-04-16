@@ -16,10 +16,14 @@
                 "id": "3e53098b07bc6c7a",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "关系图谱"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Calendar/Journal/Daily/2026-04-16.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-04-16"
                 }
               },
               {
@@ -28,7 +32,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "大话数据结构.pdf",
+                    "file": "BOOKS/大话数据结构.pdf",
                     "page": 1,
                     "left": -30,
                     "top": 2060,
@@ -368,12 +372,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3e53098b07bc6c7a",
+  "active": "d7e93d988edbfd96",
   "lastOpenFiles": [
-    "assets/大话数据结构.jpg",
-    "Calendar/Journal/Daily/2026-04-16.md",
-    "BOOKS/BOOKS.md",
     "book/大话数据结构.md",
+    "Calendar/Journal/Daily/2026-04-16.md",
+    "assets/大话数据结构.jpg",
+    "BOOKS/BOOKS.md",
     "book",
     "assets",
     "Templates/READNOTE.md",
@@ -385,7 +389,7 @@
     "软件开发学习路线.md",
     "University/Courses/大学物理A/大学物理A笔记.md",
     "新建 文本文档.txt",
-    "大话数据结构.pdf",
+    "BOOKS/大话数据结构.pdf",
     "Calendar/Journal/Daily/2026-04-15.md",
     "copilot/copilot-conversations/2026-04-15总结AI修正.md",
     "Calendar/Tracker.md",

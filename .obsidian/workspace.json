@@ -18,12 +18,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "University/Courses/大学物理A/大学物理A笔记.md",
+                    "file": "Calendar/Journal/Daily/2026-04-16.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "大学物理A笔记"
+                  "title": "2026-04-16"
+                }
+              },
+              {
+                "id": "40ff9037d9bc5054",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GitHub-Information.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "GitHub-Information"
                 }
               },
               {
@@ -86,7 +100,8 @@
                   "title": "AI model information"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "fc0e70b0fdab6f32",
@@ -367,18 +382,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "audio-recorder:开始/结束录音": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "3e53098b07bc6c7a",
+  "active": "40ff9037d9bc5054",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
     "Calendar/Journal/Daily/2026-04-16.md",
-    "大话数据结构.pdf",
+    "GitHub-Information.md",
     "AI/AI model information.md",
     "软件开发学习路线.md",
-    "未命名.md",
+    "University/Courses/大学物理A/大学物理A笔记.md",
+    "新建 文本文档.txt",
+    "大话数据结构.pdf",
     "Calendar/Journal/Daily/2026-04-15.md",
     "copilot/copilot-conversations/2026-04-15总结AI修正.md",
     "Calendar/Tracker.md",
@@ -414,7 +430,6 @@
     "Java/JavaSE/对象创建的流程分析.png",
     "Java/JavaSE/内存分析法.png",
     "copilot/memory",
-    "Recording 20260310201444.m4a",
     "University/简历参考1.png",
     "Java/JavaSE/内存分析法.jpg",
     "Pasted image 20260305220847.png",

@@ -1,0 +1,25 @@
+{
+  "palette": {
+    "seed": 4,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "ai": 3,
+    "conclusion": 11,
+    "confidential": 4,
+    "copilot-conversation": 5,
+    "everyday-words": 8,
+    "java": 10,
+    "learning-route": 12,
+    "note": 7,
+    "workout": 9
+  },
+  "tagColors": {},
+  "_version": 4
+}

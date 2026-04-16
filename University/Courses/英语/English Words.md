@@ -1,0 +1,56 @@
+---
+tags:
+  - everyday-words
+---
+## [[2026-03-27]]
+resemble   ==类似于==
+==pretend==   ==假装==
+==wreck==  失事
+==calculate==   计算
+==sake==   缘故
+==conceal==   把...隐藏起来
+## [[2026-03-28]]
+==neutral==   中立的
+==scratch==   抓
+==circular==   圆的
+exposure   ==曝光==
+## [[2026-03-29]]
+==multicultural==   融合多种文化的
+## [[2026-03-30]]
+harbour   ==港口==
+infinite   ==无限的==
+==concede==   ==承认==
+==elect==   选举
+==commission==   委员会
+==rational==   ==理性的==
+## [[2026-04-01]]
+==plentiful==   丰富的
+==consultant==   ==顾问==
+==illustration==   ==说明==
+==disguise==   假扮
+==liberal==   ==心胸宽大的==
+==harmony==   调和
+## [[2026-04-02]]
+==imitate==   模仿
+==reproduce==   复制
+==provocation==   激怒
+==export==   输出
+pat   ==非常恰当==
+## [[2026-04-10]]
+visibility   ==可见度==
+moisture   ==潮湿==
+frustrate   ==使沮丧==
+external   ==外部的==
+circumstance   ==情况==
+provided   ==假如==
+semiconductor   半导体
+## [[2026-04-11]]
+motive   动机
+motivate   作为...的动机
+multiply   增加
+multiple   复合的
+==fatal==   ==致命的==
+lens   ==透镜==
+==spoil==   ==损坏==
+==pilot==   ==试验性的==
+perform   ==履行==

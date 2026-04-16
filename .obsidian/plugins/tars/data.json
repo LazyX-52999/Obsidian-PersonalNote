@@ -1,0 +1,67 @@
+{
+  "editorStatus": {
+    "isTextInserting": false
+  },
+  "providers": [
+    {
+      "tag": "Kimi",
+      "vendor": "Kimi",
+      "options": {
+        "apiKey": "sk-s3UraEayRiLZNRo0dgdp4WnTRFBwfsEeK1zf2wcOPNCNtJuG",
+        "baseURL": "https://api.moonshot.cn/v1/chat/completions",
+        "model": "kimi-k2-thinking-turbo",
+        "parameters": {}
+      }
+    },
+    {
+      "tag": "",
+      "vendor": "Kimi",
+      "options": {
+        "apiKey": "sk-s3UraEayRiLZNRo0dgdp4WnTRFBwfsEeK1zf2wcOPNCNtJuG",
+        "baseURL": "https://api.moonshot.cn/v1/chat/completions",
+        "model": "kimi-k2-thinking-turbo",
+        "parameters": {}
+      }
+    },
+    {
+      "tag": "DeepSeek",
+      "vendor": "DeepSeek",
+      "options": {
+        "apiKey": "sk-758f8a1ac2b349548fe80aa7950c5f28",
+        "baseURL": "https://api.deepseek.com",
+        "model": "deepseek-chat",
+        "parameters": {}
+      }
+    }
+  ],
+  "systemTags": [
+    "System",
+    "系统"
+  ],
+  "newChatTags": [
+    "NewChat",
+    "新对话"
+  ],
+  "userTags": [
+    "User",
+    "问"
+  ],
+  "roleEmojis": {
+    "assistant": "✨",
+    "system": "🔧",
+    "newChat": "🚀",
+    "user": "💬"
+  },
+  "promptTemplates": [],
+  "enableInternalLink": true,
+  "enableInternalLinkForAssistantMsg": false,
+  "answerDelayInMilliseconds": 2000,
+  "confirmRegenerate": true,
+  "enableTagSuggest": true,
+  "tagSuggestMaxLineLength": 20,
+  "enableExportToJSONL": false,
+  "enableReplaceTag": false,
+  "enableDefaultSystemMsg": true,
+  "defaultSystemMsg": "",
+  "enableStreamLog": false
+}

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"d20e2210f45d218e","type":"text","text":"- [ ] 大一下 2026.3-2026.6","x":-650,"y":-420,"width":260,"height":60},
+		{"id":"c941cfe234c5da01","type":"text","text":"- [ ] 大二上 2026.9-2027.1","x":-650,"y":-320,"width":260,"height":60},
+		{"id":"ffc77f9223a25130","type":"text","text":"- [ ] 大二下 2027.3-2027.6","x":-650,"y":-220,"width":260,"height":60},
+		{"id":"264be9f6f6246049","type":"text","text":"- [ ] 大三上 2027.9-2028.1","x":-650,"y":-120,"width":260,"height":60},
+		{"id":"d47ffce4af36d41c","type":"text","text":"- [ ] 大三下 2028.3-2028.6","x":-650,"y":-20,"width":260,"height":60},
+		{"id":"6e65d1d63682f9ee","type":"text","text":"- [ ] 大四上 2028.9-2029.1","x":-650,"y":80,"width":260,"height":60},
+		{"id":"6919f4fdd410f3fa","type":"text","text":"- [ ] 大四下 2029.3-2029.6","x":-650,"y":180,"width":260,"height":60},
+		{"id":"a066e1bb9fa81486","type":"text","text":"- [x] 大一寒假 2026.1-2026.3 ✅ 2026-03-31","x":-320,"y":-460,"width":260,"height":60},
+		{"id":"98c24d7a67a34637","type":"text","text":"- [ ] 大一暑假 2026.6-2026.9","x":-320,"y":-360,"width":260,"height":60},
+		{"id":"4b9a7e48c695148f","type":"text","text":"- [ ] 大二寒假 2027.1-2027.3","x":-320,"y":-260,"width":260,"height":60},
+		{"id":"6e35ce59f4a795c0","type":"text","text":"- [ ] 大二暑假 2027.6-2027.9","x":-320,"y":-160,"width":260,"height":60,"color":"1"},
+		{"id":"13d90b487c0afe47","type":"text","text":"- [ ] 大三寒假 2028.1-2028.3","x":-320,"y":-60,"width":260,"height":60,"color":"1"},
+		{"id":"fa129c390f6df709","type":"text","text":"- [ ] 大三暑假 2028.6-2028.9","x":-320,"y":40,"width":260,"height":60,"color":"1"},
+		{"id":"dbd772314a20eefa","type":"text","text":"- [ ] 大四寒假 2029.1-2029.3","x":-320,"y":140,"width":260,"height":60},
+		{"id":"ff73aa233c33e401","type":"text","text":"- [ ] 毕业","x":-320,"y":240,"width":260,"height":60},
+		{"id":"cffd931deae18a57","type":"text","text":"- [x] 大一上 2025.9-2026.1 ✅ 2026-03-31","x":-650,"y":-520,"width":260,"height":60}
+	],
+	"edges":[
+		{"id":"43e14420b1ebce3d","fromNode":"cffd931deae18a57","fromSide":"right","toNode":"a066e1bb9fa81486","toSide":"left"},
+		{"id":"67f12c363b257786","fromNode":"a066e1bb9fa81486","fromSide":"left","toNode":"d20e2210f45d218e","toSide":"right"},
+		{"id":"bdd2871043afea9f","fromNode":"d20e2210f45d218e","fromSide":"right","toNode":"98c24d7a67a34637","toSide":"left"},
+		{"id":"5bbe0e415c6ff965","fromNode":"98c24d7a67a34637","fromSide":"left","toNode":"c941cfe234c5da01","toSide":"right"},
+		{"id":"55a3deb6823690a2","fromNode":"c941cfe234c5da01","fromSide":"right","toNode":"4b9a7e48c695148f","toSide":"left"},
+		{"id":"7c45c25f405e619d","fromNode":"4b9a7e48c695148f","fromSide":"left","toNode":"ffc77f9223a25130","toSide":"right"},
+		{"id":"ba5f0fbbc69e3c2c","fromNode":"ffc77f9223a25130","fromSide":"right","toNode":"6e35ce59f4a795c0","toSide":"left"},
+		{"id":"80ceb2705159bc26","fromNode":"6e35ce59f4a795c0","fromSide":"left","toNode":"264be9f6f6246049","toSide":"right"},
+		{"id":"759d4be0ebb2129b","fromNode":"264be9f6f6246049","fromSide":"right","toNode":"13d90b487c0afe47","toSide":"left"},
+		{"id":"3b02a9e0f844e893","fromNode":"13d90b487c0afe47","fromSide":"left","toNode":"d47ffce4af36d41c","toSide":"right"},
+		{"id":"ac7f4c907d0a44dc","fromNode":"d47ffce4af36d41c","fromSide":"right","toNode":"fa129c390f6df709","toSide":"left"},
+		{"id":"07d94d1543b02448","fromNode":"fa129c390f6df709","fromSide":"left","toNode":"6e65d1d63682f9ee","toSide":"right"},
+		{"id":"d00117c602eb69a8","fromNode":"6e65d1d63682f9ee","fromSide":"right","toNode":"dbd772314a20eefa","toSide":"left"},
+		{"id":"5225a997f72d7586","fromNode":"dbd772314a20eefa","fromSide":"left","toNode":"6919f4fdd410f3fa","toSide":"right"},
+		{"id":"3c52b9fc9ab51c83","fromNode":"6919f4fdd410f3fa","fromSide":"right","toNode":"ff73aa233c33e401","toSide":"left"}
+	]
+}

@@ -1,0 +1,425 @@
+{
+  "main": {
+    "id": "12eb076a7f27e3cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4de3899e98c8961",
+        "type": "split",
+        "children": [
+          {
+            "id": "60c7dc922efbcef2",
+            "type": "tabs",
+            "dimension": 65.84887144259078,
+            "children": [
+              {
+                "id": "3e53098b07bc6c7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "University/Courses/大学物理A/大学物理A笔记.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "大学物理A笔记"
+                }
+              },
+              {
+                "id": "7f4947f909539b7b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "大话数据结构.pdf",
+                    "page": 33,
+                    "left": -35,
+                    "top": 1599,
+                    "zoom": 0.42470506592644
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "大话数据结构"
+                }
+              },
+              {
+                "id": "cc9f95239edd9f31",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Java/JavaSE/韩顺平笔记.pdf",
+                    "page": 421,
+                    "left": -19,
+                    "top": 198,
+                    "zoom": 0.7996341543084863
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "韩顺平笔记"
+                }
+              },
+              {
+                "id": "0e45b65ec60148c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Java/JavaSE/JavaSE（韩顺平）.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "JavaSE（韩顺平）"
+                }
+              },
+              {
+                "id": "c13f658298fe4d88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI/AI model information.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI model information"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fc0e70b0fdab6f32",
+            "type": "tabs",
+            "dimension": 34.15112855740923,
+            "children": [
+              {
+                "id": "bd875800b3742bbd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Java/StudyScreenshotNote/StudyScreenshotNote.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "StudyScreenshotNote"
+                }
+              },
+              {
+                "id": "a398896d31285782",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "University/Courses/英语/English Words.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "English Words"
+                }
+              },
+              {
+                "id": "6ee5f263ea3fc98c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Calendar/Tracker.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Tracker"
+                }
+              },
+              {
+                "id": "cef54b2adafca8e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "copilot/JavaSE Conclusion prompt.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "JavaSE Conclusion prompt"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08718942916ac436",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd393077c009e52",
+        "type": "tabs",
+        "dimension": 68.64754098360656,
+        "children": [
+          {
+            "id": "d7e93d988edbfd96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4048f6a7c6b82405",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Java",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "915e8967ed3b4cbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "91829aed62dd028f",
+        "type": "tabs",
+        "dimension": 31.35245901639344,
+        "children": [
+          {
+            "id": "348b0c839fcc0995",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "61c0b67c4c4fc0a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f3c7949ec6788d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "239329d6f87994e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/Journal/Daily/2026-04-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "2026-04-11 的反向链接列表"
+            }
+          },
+          {
+            "id": "91add5b8eebded30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar/Journal/Daily/2026-04-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "2026-04-16 的出链列表"
+            }
+          },
+          {
+            "id": "d9bd61089d389d6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c0ef7ab12c0945f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "25d28c596f8bcfe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "f14de76e61a4dda0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "AI/AI model information.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "56d33449d94cdbf7",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "copilot:Open Copilot Chat": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "audio-recorder:开始/结束录音": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3e53098b07bc6c7a",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "Calendar/Journal/Daily/2026-04-16.md",
+    "大话数据结构.pdf",
+    "AI/AI model information.md",
+    "软件开发学习路线.md",
+    "未命名.md",
+    "Calendar/Journal/Daily/2026-04-15.md",
+    "copilot/copilot-conversations/2026-04-15总结AI修正.md",
+    "Calendar/Tracker.md",
+    "University/Courses/英语/English Words.md",
+    "Java/StudyScreenshotNote/StudyScreenshotNote.md",
+    "copilot/JavaSE Conclusion prompt.md",
+    "Java/JavaSE/韩顺平笔记.pdf",
+    "Calendar/Journal/Daily/2026-04-14.md",
+    "Bases/Calendar.base",
+    "Calendar/Journal/Daily/2026-04-13.md",
+    "Calendar/Journal/Daily/2026-04-12.md",
+    "Calendar/Journal/Daily/2026-04-11.md",
+    "Calendar/Journal/Daily/2026-04-10.md",
+    "Calendar/Journal/Daily/2026-04-09.md",
+    "Calendar/Journal/Daily/2026-04-08.md",
+    "Calendar/Journal/Daily/2026-04-07.md",
+    "Calendar/Journal/Daily/2026-04-02.md",
+    "Calendar/Journal/Daily/2026-04-01.md",
+    "Calendar/Journal/Daily/2026-03-31.md",
+    "Calendar/Journal/Daily/2026-03-30.md",
+    "Calendar/Journal/Daily/2026-03-29.md",
+    "Calendar/Journal/Daily/2026-03-28.md",
+    "Calendar/Journal/Daily/2026-03-27.md",
+    "Java/Java学习攻略详解.pdf",
+    "University/简历参考3.pdf",
+    "Java/StudyScreenshotNote/Pasted image 20260411133956.png",
+    "Java/StudyScreenshotNote/Pasted image 20260411133701.png",
+    "Java/StudyScreenshotNote",
+    "Java/Conclusion",
+    "University/大学时间线.canvas",
+    "University/Courses/英语",
+    "Java/JavaSE/继承的内存分析.png",
+    "Java/JavaSE/对象创建的流程分析.png",
+    "Java/JavaSE/内存分析法.png",
+    "copilot/memory",
+    "Recording 20260310201444.m4a",
+    "University/简历参考1.png",
+    "Java/JavaSE/内存分析法.jpg",
+    "Pasted image 20260305220847.png",
+    "Java/JavaSE/内存分析法.canvas",
+    "Pasted image 20260305220850.png",
+    "Pasted image 20260305220721.png"
+  ]
+}

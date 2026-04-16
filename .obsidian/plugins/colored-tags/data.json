@@ -10,7 +10,14 @@
     "highTextContrast": false
   },
   "knownTags": {
+    "ai": 10,
+    "conclusion": 11,
     "confidential": 4,
+    "copilot-conversation": 12,
+    "everyday-words": 13,
+    "java": 14,
+    "learning-route": 15,
+    "note": 16,
     "workout": 9
   },
   "tagColors": {},

@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Calendar/Journal/Daily/2026-04-17.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -326,13 +326,23 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "7b0348b563254f0d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {

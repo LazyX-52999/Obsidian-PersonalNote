@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "GitHub-Information.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "GitHub-Information"
                 }
               },
               {
@@ -388,8 +388,8 @@
   },
   "active": "40ff9037d9bc5054",
   "lastOpenFiles": [
-    "GitHub-Information.md",
     "README.md",
+    "GitHub-Information.md",
     "Calendar/Journal/Daily/2026-04-16.md",
     "AI/AI model information.md",
     "软件开发学习路线.md",

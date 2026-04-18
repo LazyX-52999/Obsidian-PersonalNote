@@ -13,7 +13,7 @@
             "dimension": 65.84887144259078,
             "children": [
               {
-                "id": "5d3059251e0d7694",
+                "id": "991f8ee3799916b8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -27,16 +27,17 @@
                 }
               },
               {
-                "id": "3e53098b07bc6c7a",
+                "id": "df02ccbed393b8d1",
                 "type": "leaf",
                 "state": {
-                  "type": "bases",
+                  "type": "markdown",
                   "state": {
-                    "file": "Bases/Calendar.base",
-                    "viewName": "Calendar"
+                    "file": "Java/Easy-to-forget Key Points/JavaSE Easy-to-forget Key Points.md",
+                    "mode": "preview",
+                    "source": false
                   },
-                  "icon": "lucide-table",
-                  "title": "Calendar"
+                  "icon": "lucide-file",
+                  "title": "JavaSE Easy-to-forget Key Points"
                 }
               },
               {
@@ -47,9 +48,9 @@
                   "state": {
                     "file": "Java/JavaSE/韩顺平笔记.pdf",
                     "page": 433,
-                    "left": -17,
+                    "left": -18,
                     "top": 526,
-                    "zoom": 0.9015483112301561
+                    "zoom": 0.8986084797804925
                   },
                   "icon": "lucide-file-text",
                   "title": "韩顺平笔记"
@@ -70,17 +71,16 @@
                 }
               },
               {
-                "id": "c13f658298fe4d88",
+                "id": "0c4ba0361c727108",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "bases",
                   "state": {
-                    "file": "AI/AI model information.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Bases/Calendar.base",
+                    "viewName": "Calendar"
                   },
-                  "icon": "lucide-file",
-                  "title": "AI model information"
+                  "icon": "lucide-table",
+                  "title": "Calendar"
                 }
               }
             ]
@@ -91,19 +91,17 @@
             "dimension": 34.15112855740923,
             "children": [
               {
-                "id": "bd875800b3742bbd",
+                "id": "5d3059251e0d7694",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Java/StudyScreenshotNote/StudyScreenshotNote.md",
+                    "file": "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "StudyScreenshotNote"
+                  "title": "2026-04-18 Java 学习截图笔记"
                 }
               },
               {
@@ -377,17 +375,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd875800b3742bbd",
+  "active": "991f8ee3799916b8",
   "lastOpenFiles": [
-    "Java/StudyScreenshotNote/Pasted image 20260418125639.png",
-    "Java/StudyScreenshotNote/Pasted image 20260418124721.png",
+    "Bases/Calendar.base",
     "Calendar/Journal/Daily/2026-04-18.md",
+    "Java/Easy-to-forget Key Points/JavaSE Easy-to-forget Key Points.md",
+    "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
+    "Calendar/Journal/Daily/2026-04-17.md",
+    "Java/StudyScreenshotNote/2026-04-17 Java 学习截图笔记.md",
+    "Java/StudyScreenshotNote/2026-04-11 Java 学习截图笔记.md",
+    "Calendar/Journal/Daily/2026-04-11.md",
+    "附件/Pasted image 20260418130423.png",
+    "附件/Pasted image 20260418130300.png",
+    "附件",
+    "未命名.md",
     "Java/StudyScreenshotNote/StudyScreenshotNote.md",
-    "Java/StudyScreenshotNote/Pasted image 20260418123528.png",
+    "附件/Pasted image 20260417193047.png",
+    "2026-04-11 Java 学习截图笔记.md",
+    "附件/Pasted image 20260418125639.png",
+    "附件/Pasted image 20260418124721.png",
+    "附件/Pasted image 20260418123528.png",
     "Calendar/Tracker.md",
     "Calendar/Journal/Daily/2026-04-19.md",
-    "Calendar/Journal/Daily/2026-04-17.md",
-    "Java/Easy-to-forget Key Points/JavaSE Easy-to-forget Key Points.md",
     "Java/Easy-to-forget Key Points",
     "copilot/copilot-conversations/2026-04-17总结AI修正.md",
     "copilot/copilot-conversations/2026-04-15总结AI修正.md",
@@ -395,36 +404,24 @@
     "copilot/JavaSE Conclusion prompt.md",
     "Java/JavaSE/韩顺平笔记.pdf",
     "2026-04-17-2uic19ADot4.md",
-    "Java/StudyScreenshotNote/Pasted image 20260417202632.png",
-    "Bases/Calendar.base",
+    "附件/Pasted image 20260417202632.png",
     "Calendar/Journal/Daily/2026-04-16.md",
     "Calendar/Journal/Daily/2026-04-15.md",
-    "Java/StudyScreenshotNote/Pasted image 20260417195443.png",
-    "Java/StudyScreenshotNote/Pasted image 20260417194821.png",
-    "Java/StudyScreenshotNote/Pasted image 20260417194740.png",
-    "Java/StudyScreenshotNote/Pasted image 20260417193047.png",
-    "Java/StudyScreenshotNote/Pasted image 20260417193008.png",
+    "附件/Pasted image 20260417195443.png",
+    "附件/Pasted image 20260417194821.png",
+    "附件/Pasted image 20260417194740.png",
     "Workout.md",
     "Templates/Daily-TEMPLATE.md",
     "BOOKS/码农翻身：用故事给技术加点料_.pdf",
     "BOOKS/大话数据结构.pdf",
     "book/大话数据结构.md",
-    "assets/大话数据结构.jpg",
     "BOOKS/BOOKS.md",
     "book",
     "assets",
     "Templates/READNOTE.md",
     "BOOKS",
     "GitHub-Information.md",
-    "README.md",
-    "AI/AI model information.md",
-    "软件开发学习路线.md",
-    "University/Courses/大学物理A/大学物理A笔记.md",
     "新建 文本文档.txt",
-    "University/Courses/英语/English Words.md",
-    "Calendar/Journal/Daily/2026-04-14.md",
-    "Java/Java学习攻略详解.pdf",
-    "Java/StudyScreenshotNote/Pasted image 20260411133956.png",
     "University/大学时间线.canvas",
     "Java/JavaSE/内存分析法.canvas"
   ]

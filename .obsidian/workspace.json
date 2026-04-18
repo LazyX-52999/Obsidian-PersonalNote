@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Java",
+                "query": "动态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,8 +377,11 @@
   },
   "active": "5d3059251e0d7694",
   "lastOpenFiles": [
-    "Calendar/Journal/Daily/2026-04-18.md",
+    "Calendar/Journal/Daily/2026-03-21.md",
     "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
+    "Accessories/Pasted image 20260418142816.png",
+    "Accessories/Pasted image 20260418142712.png",
+    "Calendar/Journal/Daily/2026-04-18.md",
     "Accessories/Pasted image 20260418135224.png",
     "Accessories/Pasted image 20260418140229.png",
     "Accessories/Pasted image 20260418140216.png",
@@ -393,11 +396,9 @@
     "Java/StudyScreenshotNote/2026-04-11 Java 学习截图笔记.md",
     "Calendar/Journal/Daily/2026-04-11.md",
     "Accessories/Pasted image 20260418130423.png",
-    "Accessories/Pasted image 20260418130300.png",
     "Accessories",
     "未命名.md",
     "Java/StudyScreenshotNote/StudyScreenshotNote.md",
-    "Accessories/Pasted image 20260417193047.png",
     "2026-04-11 Java 学习截图笔记.md",
     "Calendar/Tracker.md",
     "Calendar/Journal/Daily/2026-04-19.md",

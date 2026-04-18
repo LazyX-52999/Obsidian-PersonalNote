@@ -54,3 +54,9 @@ lens   ==透镜==
 ==spoil==   ==损坏==
 ==pilot==   ==试验性的==
 perform   ==履行==
+## [[2026-04-18]]
+==weld==   ==焊接==
+==personnel==   员工
+==outlook==   观点
+==fountain==   泉水
+==catalog==   目录

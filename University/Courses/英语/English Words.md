@@ -60,3 +60,9 @@ perform   ==履行==
 ==outlook==   观点
 ==fountain==   泉水
 ==catalog==   目录
+## [[2026-04-19]]
+==flour==   ==面粉==
+myth   ==杜撰出来的人；神话==
+==fierce==   凶猛的
+==corporation==   公司
+==loyalty==   忠诚

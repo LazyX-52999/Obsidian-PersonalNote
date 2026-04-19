@@ -1,0 +1,104 @@
+package com.innerclass_;
+
+public class AnonymousInnerClass {
+    public static void main(String[] args) {
+        Outer20 outer20 = new Outer20();
+        outer20.method();
+    }
+}
+
+class Outer20 {
+    private int n1 = 10;
+    public void method() {
+        System.out.println("method");
+
+        //基于 接口 的匿名内部类
+        //如何实现接口IA的cry方法?
+
+        //传统方法 - 写一个实现IA接口的类Tiger,再创建对象来调用Tiger类中的cry方法
+        IA tiger = new Tiger();
+        tiger.cry();
+
+        //匿名内部类的方法 -
+        IA tiger2 = new Tiger() {
+            @Override
+            public void cry() {
+                System.out.println("cry匿名内部类的方法");
+            }
+        };
+        /*
+        等价于：
+        class Outer20$1 implements IA {
+            @Override
+            public void cry() {
+                System.out.println("cry匿名内部类的方法");
+            }
+        }
+
+        Outer20$1是系统分配的类名，在用完一次之后就没有了。即：匿名内部类使用一次后就不能再使用了
+         */
+        tiger2.cry();
+
+        //基于 类 的匿名内部类
+        Father father = new Father("jack") {
+            @Override
+            public void test() {
+                System.out.println("基于Father类的匿名内部类重写了test方法");
+            }
+        };
+        /*
+        等价于：
+        class Outer20$2 extends Father {
+            @Override
+            public void test() {
+                System.out.println("基于Father类的匿名内部类重写了test方法");
+            }
+        }
+
+        Outer20$1是系统分配的类名，在用完一次之后就没有了。即：匿名内部类使用一次后就不能再使用了
+         */
+        father.test();
+
+        //基于 抽象类 的匿名内部类
+        Son son = new Son() {
+            @Override
+            public void son() {
+                System.out.println("匿名内部类实现了Son抽象类中的son抽象方法");
+            }
+        };
+        /*
+        等价于：
+        class Outer20$3 extends son {
+            public void son() {
+                System.out.println("匿名内部类实现了Son抽象类中的son抽象方法");
+            }
+        }
+
+        Outer20$1是系统分配的类名，在用完一次之后就没有了。即：匿名内部类使用一次后就不能再使用了
+         */
+        son.son();
+    }
+}
+
+interface IA {
+    void cry();
+}
+
+class Tiger implements IA {
+    public void cry() {
+        System.out.println("cry方法");
+    }
+}
+
+class Father {
+    public Father(String name) {
+        System.out.println("Father gouzaoqi");
+    }
+    public void test() {
+        System.out.println("test");
+    }
+}
+
+abstract class Son {
+    public abstract void son();
+}

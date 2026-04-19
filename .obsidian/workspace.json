@@ -96,12 +96,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
+                    "file": "Java/StudyScreenshotNote/2026-04-19 Java 学习截图笔记.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-04-18 Java 学习截图笔记"
+                  "title": "2026-04-19 Java 学习截图笔记"
                 }
               },
               {
@@ -150,8 +150,7 @@
                   "title": "JavaSE Conclusion prompt"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -376,17 +375,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "991f8ee3799916b8",
+  "active": "5d3059251e0d7694",
   "lastOpenFiles": [
+    "Accessories/Pasted image 20260419135119.png",
+    "Accessories/Pasted image 20260419134914.png",
+    "Accessories/Pasted image 20260419134536.png",
+    "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
+    "Java/StudyScreenshotNote/2026-04-19 Java 学习截图笔记.md",
     "Calendar/Tracker.md",
+    "Calendar/Journal/Daily/2026-04-19.md",
     "Calendar/Journal/Daily/2026-04-17.md",
     "Calendar/Journal/Daily/2026-04-18.md",
     "Bases/Calendar.base",
-    "Calendar/Journal/Daily/2026-04-19.md",
     "copilot/copilot-conversations/2026-04-18总结AI修正.md",
     "copilot/copilot-conversations/2026-04-17总结AI修正.md",
     "copilot/JavaSE Conclusion prompt.md",
-    "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
     "Java/JavaSE/韩顺平笔记.pdf",
     "README.md",
     "Workout.md",
@@ -405,8 +408,6 @@
     "Accessories/Pasted image 20260418155616.png",
     "Accessories/Pasted image 20260418155559.png",
     "Accessories/Pasted image 20260418155542.png",
-    "Accessories/Pasted image 20260418153218.png",
-    "Accessories/Pasted image 20260418152800.png",
     "Calendar/Journal/Daily/2026-03-21.md",
     "Java/Easy-to-forget Key Points/JavaSE Easy-to-forget Key Points.md",
     "Java/StudyScreenshotNote/2026-04-17 Java 学习截图笔记.md",
@@ -416,7 +417,6 @@
     "Java/StudyScreenshotNote/StudyScreenshotNote.md",
     "2026-04-11 Java 学习截图笔记.md",
     "Java/Easy-to-forget Key Points",
-    "copilot/copilot-conversations/2026-04-15总结AI修正.md",
     "BOOKS/码农翻身：用故事给技术加点料_.pdf",
     "BOOKS/大话数据结构.pdf",
     "book",

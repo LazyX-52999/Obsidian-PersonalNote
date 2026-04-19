@@ -1,10 +1,9 @@
 # 📝 Obsidian 个人知识库
 > 私人学习笔记 · 知识沉淀 · 持续更新
 
-![Private](https://img.shields.io/badge/仓库-私有-gray.svg)
+![Private|66](https://img.shields.io/badge/仓库-Private-green.svg)
 ![Obsidian](https://img.shields.io/badge/Powered%20by-Obsidian-7E57C2.svg)
 ![Git](https://img.shields.io/badge/版本控制-Git-F05032.svg)
-![Git LFS](https://img.shields.io/badge/大文件-Git%20LFS-green.svg)
 
 ---
 

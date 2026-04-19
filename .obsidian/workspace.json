@@ -48,9 +48,9 @@
                   "state": {
                     "file": "Java/JavaSE/韩顺平笔记.pdf",
                     "page": 468,
-                    "left": -21,
-                    "top": 557,
-                    "zoom": 0.7614163454628602
+                    "left": -85,
+                    "top": 754,
+                    "zoom": 0.17638988697981317
                   },
                   "icon": "lucide-file-text",
                   "title": "韩顺平笔记"
@@ -371,7 +371,8 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "audio-recorder:开始/结束录音": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "991f8ee3799916b8",

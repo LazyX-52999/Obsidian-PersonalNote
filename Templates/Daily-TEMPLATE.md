@@ -17,6 +17,9 @@ cssclasses:
 ##### ❮ [[<% d.clone().subtract(1, 'days').format("YYYY-MM-DD") %>]] | <% tp.file.title %> | [[<% d.clone().add(1, 'days').format("YYYY-MM-DD") %>]] ❯
 ---
 ### 📖Freewrite
+#### Tomorrow Forecast
+明日我要
+
 #### Conclusion
 今日，课，学习时间为：h min
 上午

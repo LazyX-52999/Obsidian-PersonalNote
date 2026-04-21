@@ -151,7 +151,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -376,13 +376,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cef54b2adafca8e8",
+  "active": "991f8ee3799916b8",
   "lastOpenFiles": [
+    "Templates/Daily-TEMPLATE.md",
     "Calendar/Journal/Daily/2026-04-20.md",
-    "Calendar/Journal/Daily/2026-04-19.md",
-    "copilot/JavaSE Conclusion prompt.md",
-    "Calendar/Journal/Daily/2026-04-18.md",
+    "大话数据结构.pdf",
+    "Java/StudyScreenshotNote/StudyScreenshotNote.md",
+    "Java/StudyScreenshotNote/Pasted image 20260411133956.png",
     "University/Courses/英语/English Words.md",
+    "copilot/JavaSE Conclusion prompt.md",
+    "Calendar/Journal/Daily/2026-04-19.md",
+    "Calendar/Journal/Daily/2026-04-18.md",
     "Java/StudyScreenshotNote/2026-04-19 Java 学习截图笔记.md",
     "copilot/copilot-conversations/2026-04-19总结AI修正.md",
     "copilot/copilot-conversations/2026-04-18总结AI修正.md",
@@ -392,7 +396,6 @@
     "Accessories/AnonymousInnerClassDetail.java",
     "Accessories/AnonymousInnerClass 1.java",
     "Accessories/LocalInnerClass.java",
-    "Templates/Daily-TEMPLATE.md",
     "Bases/Calendar.base",
     "Workout.md",
     "Calendar/Journal/Daily/2026-04-21.md",
@@ -407,7 +410,6 @@
     "Accessories/Pasted image 20260419155125.png",
     "Accessories/Pasted image 20260419154540.png",
     "Accessories/Pasted image 20260419154145.png",
-    "Accessories/Pasted image 20260419152347.png",
     "Accessories/AnonymousInnerClass.java",
     "Java/JavaSE/韩顺平笔记.pdf",
     "Java/StudyScreenshotNote/2026-04-18 Java 学习截图笔记.md",
@@ -421,9 +423,6 @@
     "University/简历参考1的经历.md",
     "未命名.md",
     "Calendar/Journal/Daily/2026-03-21.md",
-    "Java/Easy-to-forget Key Points/JavaSE Easy-to-forget Key Points.md",
-    "Java/StudyScreenshotNote/2026-04-17 Java 学习截图笔记.md",
-    "Accessories",
     "University/大学时间线.canvas",
     "Java/JavaSE/内存分析法.canvas"
   ]

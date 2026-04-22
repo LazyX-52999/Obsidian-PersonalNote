@@ -1,4 +1,4 @@
-# 📝 Obsidian 个人知识库
+<center> # 📝 Obsidian 个人知识库 </center>
 > 私人学习笔记 · 知识沉淀 · 持续更新
 
 ![Private|66](https://img.shields.io/badge/仓库-Private-green.svg)

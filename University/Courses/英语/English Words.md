@@ -66,3 +66,11 @@ myth   ==杜撰出来的人；神话==
 ==fierce==   凶猛的
 ==corporation==   公司
 ==loyalty==   忠诚
+## [[2026-04-23]]
+reform   ==改革==
+==integration==   ==综合==
+indication   ==指示==
+==pine==   消瘦
+==magnificent==   ==宏伟的==
+bulb   电灯泡
+bulk   变得越来越大

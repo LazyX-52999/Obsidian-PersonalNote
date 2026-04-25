@@ -16,7 +16,7 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "sk-758f8a1ac2b349548fe80aa7950c5f28",
+  "deepseekApiKey": "sk-d56dca21a1614d45af9c3b4a95212ee4",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "deepseek-chat|deepseek",
+  "defaultModelKey": "deepseek-v4-pro|deepseek",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -281,6 +281,11 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "deepseek-v4-pro",
+      "provider": "deepseek",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [

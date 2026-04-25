@@ -63,6 +63,7 @@ powershell -Command "$ f='%USERPROFILE%\.claude.json';$j=Get-Content $f|ConvertF
 
 ## DeepSeek
 #### API KEY: sk-758f8a1ac2b349548fe80aa7950c5f28
+#### API KEY: sk-d56dca21a1614d45af9c3b4a95212ee4 (deepseek-v4)
 
 
 # 提示词优化器接入模型

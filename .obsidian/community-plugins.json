@@ -16,5 +16,6 @@
   "quicknote",
   "remotely-save",
   "obsidian-git",
-  "obsidian-douban-plugin"
+  "obsidian-douban-plugin",
+  "obsidian-local-rest-api"
 ]

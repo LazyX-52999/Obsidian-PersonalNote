@@ -47,10 +47,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "Java/JavaSE/韩顺平笔记.pdf",
-                    "page": 490,
-                    "left": -18,
-                    "top": 53,
-                    "zoom": 0.8986084797804925
+                    "page": 510,
+                    "left": -21,
+                    "top": 722,
+                    "zoom": 0.7614163454628602
                   },
                   "icon": "lucide-file-text",
                   "title": "韩顺平笔记"
@@ -83,8 +83,7 @@
                   "title": "Calendar"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "fc0e70b0fdab6f32",
@@ -392,8 +391,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc9f95239edd9f31",
+  "active": "991f8ee3799916b8",
   "lastOpenFiles": [
+    "Java/JavaSE/韩顺平笔记.pdf",
     "Calendar/Journal/Daily/2026-04-27.md",
     "Java/StudyScreenshotNote/2026-04-27 Java 学习截图笔记.md",
     "Java/StudyScreenshotNote/2026-04-19 Java 学习截图笔记.md",
@@ -421,7 +421,6 @@
     "Calendar/Journal/Daily/2026-04-21.md",
     "University/Courses/大学物理A/大学物理A公式总结.md",
     "copilot/copilot-conversations/位移大小的数学表示@20260421_193608.md",
-    "Calendar/Tracker.md",
     "大话数据结构.pdf",
     "Java/StudyScreenshotNote/Pasted image 20260411133956.png",
     "Accessories/StaticInnerClass.java",
@@ -439,7 +438,6 @@
     "Accessories/Pasted image 20260419155125.png",
     "Accessories/Pasted image 20260419154540.png",
     "Accessories/Pasted image 20260419154145.png",
-    "Accessories/AnonymousInnerClass.java",
     "University/大学时间线.canvas",
     "Java/JavaSE/内存分析法.canvas"
   ]

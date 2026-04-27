@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Calendar/Journal/Daily/2026-04-27.md",
+                    "file": "Calendar/Journal/Daily/2026-04-28.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-04-27"
+                  "title": "2026-04-28"
                 }
               },
               {
@@ -393,8 +393,9 @@
   },
   "active": "991f8ee3799916b8",
   "lastOpenFiles": [
-    "Java/JavaSE/韩顺平笔记.pdf",
     "Calendar/Journal/Daily/2026-04-27.md",
+    "Calendar/Journal/Daily/2026-04-28.md",
+    "Java/JavaSE/韩顺平笔记.pdf",
     "Java/StudyScreenshotNote/2026-04-27 Java 学习截图笔记.md",
     "Java/StudyScreenshotNote/2026-04-19 Java 学习截图笔记.md",
     "copilot/JavaSE Conclusion prompt.md",

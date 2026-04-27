@@ -48,9 +48,9 @@
                   "state": {
                     "file": "Java/JavaSE/韩顺平笔记.pdf",
                     "page": 490,
-                    "left": -21,
+                    "left": -18,
                     "top": 53,
-                    "zoom": 0.7614163454628602
+                    "zoom": 0.8986084797804925
                   },
                   "icon": "lucide-file-text",
                   "title": "韩顺平笔记"
@@ -83,7 +83,8 @@
                   "title": "Calendar"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "fc0e70b0fdab6f32",
@@ -391,10 +392,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "991f8ee3799916b8",
+  "active": "cc9f95239edd9f31",
   "lastOpenFiles": [
-    "Java/StudyScreenshotNote/2026-04-27 Java 学习截图笔记.md",
     "Calendar/Journal/Daily/2026-04-27.md",
+    "Java/StudyScreenshotNote/2026-04-27 Java 学习截图笔记.md",
     "Java/StudyScreenshotNote/2026-04-19 Java 学习截图笔记.md",
     "copilot/JavaSE Conclusion prompt.md",
     "Calendar/Journal/Daily/2026-04-26.md",
